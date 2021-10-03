@@ -2,7 +2,7 @@
 [![npm](https://img.shields.io/npm/dt/aflb.svg?maxAge=3600)](https://www.npmjs.com/package/aflb)
 [![install size](https://packagephobia.now.sh/badge?p=aflb)](https://packagephobia.now.sh/result?p=aflb)
 
- 
+
 [![NPM](https://nodei.co/npm/aflb.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/aflb/)
 
 # AFLB
@@ -15,7 +15,7 @@ npm i aflb
 ```
 Huge anime action gifs with no external dependencies.
 
-### Action Gifs
+### SFW Action Gifs
 
 | Function | Description |
 | -------- | ----------- |
@@ -75,13 +75,24 @@ Huge anime action gifs with no external dependencies.
 | `sex` | Gets a URL of a (NO NSFW) sex image/gif |
 | `cuddle` | Gets a URL of a cuddle image/gif |
 
+### NSFW Gifs
+
+# NSFW content is not yet available, coming soon..
+
+| Function | Description |
+| -------- | ----------- |
+| `ass` | Gets a URL of a ass image/gif |
+
+
 ## Examples
 
 Await/Async example
 ```js
-const aflb = require('aflb');
+const client = require('aflb');
+const aflb = new client();
+
 async function getKissImage() {
-  console.log(await aflb.kiss());
+  console.log(await aflb.sfw.kiss());
 }
 getKissImage();
 ```
@@ -92,9 +103,10 @@ returns:
 
 Standart Usage
 ```js
-const aflb = require('aflb');
+const client = require('aflb');
+const aflb = new client();
 
-console.log(aflb.hug())
+console.log(aflb.sfw.kiss())
 
 ```
 returns:
@@ -105,12 +117,44 @@ returns:
 Usage in Embed
 ```js
 const { MessageEmbed } = require('discord.js')
-const aflb = require('aflb');
+const client = require('aflb');
+const aflb = new client();
 
-const embed = new MessageEmbed().setImage(aflb.kiss())
+const embed = new MessageEmbed().setImage(aflb.sfw.kiss())
 ```
 returns:
 ```json
 "https://cdn.discordapp.com/attachments/820213553540759571/894021582819835904/kiss_02.gif"
 ```
 ![Embed Usage](https://cdn.discordapp.com/attachments/820213553540759571/894023119101120572/embed_usage.png)
+
+
+## Extended Examples
+
+The examples show only the import of the sfw / nsfw module, in case you don't need the second part.
+
+Import only sfw content
+```js
+const client = require('aflb');
+const { sfw } = new client();
+
+console.log(sfw.kiss())
+
+```
+returns:
+```json
+"https://cdn.discordapp.com/attachments/820213553540759571/894021582819835904/kiss_02.gif"
+```
+
+Import only nsfw content
+```js
+const client = require('aflb');
+const { nsfw } = new client();
+
+console.log(nsfw.ass())
+
+```
+returns:
+```json
+"https://cdn.discordapp.com/attachments/820213553540759571/894021582819835904/mega-nsfw.gif"
+```
