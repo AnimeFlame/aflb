@@ -5,7 +5,7 @@
 
 [![NPM](https://nodei.co/npm/aflb.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/aflb/)
 
-# AFLB
+# AFLB ¯\_(ツ)_/¯
 
 ![aflb](https://cdn.discordapp.com/attachments/814183405901053992/894023623990468618/aflb_banner.png)
 
