@@ -25,7 +25,7 @@ Huge anime action gifs with no external dependencies.
 | `bloodsuck` | Gets a URL of a bloodsuck image/gif |
 | `blush` | Gets a URL of a blush image/gif |
 | `bored` | Gets a URL of a bored image/gif |
-| `cheekKiss` | Gets a URL of a kissing cheek image/gif |
+| `kissCheek` | Gets a URL of a kissing cheek image/gif |
 | `cheek` | Gets a URL of a squeeze cheeks image/gif |
 | `clap` | Gets a URL of a clap image/gif |
 | `cringe` | Gets a URL of a cringe image/gif |
