@@ -61,11 +61,16 @@ Huge anime action gifs with no external dependencies.
 | `sad` | Gets a URL of a sad image/gif |
 | `sake` | Gets a URL of a drink sake image/gif |
 | `shoot` | Gets a URL of a shoot image/gif |
-| `tea` | Gets a URL of a sip tea image/gif |
-| `coffee` | Gets a URL of a sip coffee image/gif |
-| `juice` | Gets a URL of a sip juice image/gif |
-| `slap` | Gets a URL of a slap/punch/hit image/gif |
-| `sleep` | Gets a URL of a sleep image/gif |
+| `sip` | Gets a URL of a all sip image/gif |
+| `sipTea` | Gets a URL of a sip tea image/gif |
+| `sipCoffee` | Gets a URL of a sip coffee image/gif |
+| `sipJuice` | Gets a URL of a sip juice image/gif |
+| `slap` | Gets a URL of a all slap/punch/hit image/gif |
+| `slapAss` | Gets a URL of a slap ass image/gif |
+| `slapCheek` | Gets a URL of a smack image/gif |
+| `sleep` | Gets a URL of a all sleep image/gif |
+| `sleepSolo` | Gets a URL of a solo sleep image/gif |
+| `sleepTogether` | Gets a URL of a together sleep image/gif |
 | `smile` | Gets a URL of a smile image/gif |
 | `smoke` | Gets a URL of a smoke image/gif |
 | `steal` | Gets a URL of a steal image/gif |
