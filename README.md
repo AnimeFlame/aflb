@@ -25,7 +25,8 @@ Huge anime action gifs with no external dependencies.
 | `bloodsuck` | Gets a URL of a bloodsuck image/gif |
 | `blush` | Gets a URL of a blush image/gif |
 | `bored` | Gets a URL of a bored image/gif |
-| `cheek` | Gets a URL of a cheek image/gif |
+| `cheekKiss` | Gets a URL of a kissing cheek image/gif |
+| `cheek` | Gets a URL of a squeeze cheeks image/gif |
 | `clap` | Gets a URL of a clap image/gif |
 | `cringe` | Gets a URL of a cringe image/gif |
 | `cry` | Gets a URL of a cry image/gif |
@@ -60,7 +61,9 @@ Huge anime action gifs with no external dependencies.
 | `sad` | Gets a URL of a sad image/gif |
 | `sake` | Gets a URL of a drink sake image/gif |
 | `shoot` | Gets a URL of a shoot image/gif |
-| `sip` | Gets a URL of a sip tea image/gif |
+| `tea` | Gets a URL of a sip tea image/gif |
+| `coffee` | Gets a URL of a sip coffee image/gif |
+| `juice` | Gets a URL of a sip juice image/gif |
 | `slap` | Gets a URL of a slap/punch/hit image/gif |
 | `sleep` | Gets a URL of a sleep image/gif |
 | `smile` | Gets a URL of a smile image/gif |
@@ -82,6 +85,10 @@ Huge anime action gifs with no external dependencies.
 | Function | Description |
 | -------- | ----------- |
 | `ass` | Gets a URL of a ass image/gif |
+
+## Typings
+
+I added a typings file and will be working to improve it. This allows editors like VSC to use intellisense/autocomplete to suggest functions and help out with parameters and to see what you'll be receiving as a result of function calls.
 
 
 ## Examples
