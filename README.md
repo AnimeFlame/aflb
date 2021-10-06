@@ -84,7 +84,8 @@ Huge anime action gifs with no external dependencies.
 | `cuddle` | Gets a URL of a cuddle image/gif |
 
 ### SFW Other Gif/Image
-
+| Function | Description |
+| -------- | ----------- |
 | `mix` | Gets a URL of a cute neko, kitsune image/gif |
 | `neko` | Gets a URL of a cute neko image/gif |
 | `nekoImg` | Gets a URL of a cute neko image |
