@@ -83,9 +83,17 @@ Huge anime action gifs with no external dependencies.
 | `sex` | Gets a URL of a (NO NSFW) sex image/gif |
 | `cuddle` | Gets a URL of a cuddle image/gif |
 
+### SFW Other Gif/Image
+
+| `mix` | Gets a URL of a cute neko, kitsune image/gif |
+| `neko` | Gets a URL of a cute neko image/gif |
+| `nekoImg` | Gets a URL of a cute neko image |
+| `nekoGif` | Gets a URL of a cute neko gif |
+| `kitsune` | Gets a URL of a cute kitsune image |
+
 ### NSFW Gifs
 
-# NSFW content is not yet available, coming soon..
+### NSFW content is not yet available, coming soon..
 
 | Function | Description |
 | -------- | ----------- |
@@ -106,6 +114,7 @@ const aflb = new client();
 async function getKissImage() {
   console.log(await aflb.sfw.kiss());
 }
+
 getKissImage();
 ```
 returns:

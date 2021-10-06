@@ -1,7 +1,4 @@
 {
-    "nsfw": {
-       "ass": "ass"
-    },
     "sfw": {
       "baka": "baka",
       "angry": "angry",
@@ -66,6 +63,14 @@
       "poke": "poke",
       "smug": "smug",
       "stare": "stare",
-      "tickle": "tickle"
-    }
-  }
+      "tickle": "tickle",
+      "mix": "mix",
+      "neko": "neko",
+      "nekoImg": "nekoImg",
+      "nekoGif": "nekoGif",
+      "kitsune": "kitsune"
+    },
+    "nsfw": {
+      "ass": "ass"
+   }
+}
