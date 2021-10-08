@@ -51,11 +51,21 @@ Huge anime action gifs with no external dependencies.
 | `kiss` | Gets a URL of a kiss image/gif |
 | `pat` | Gets a URL of a pat image/gif |
 | `tickle` | Gets a URL of a tickle image/gif |
+| `scare` | Gets a URL of a scare image/gif |
+| `scared` | Gets a URL of a scared image/gif |
 | `poke` | Gets a URL of a poke image/gif |
 | `smug` | Gets a URL of a smug image/gif |
 | `stare` | Gets a URL of a stare image/gif |
 | `panic` | Gets a URL of a panic image/gif |
 | `nya` | Gets a URL of a nya image/gif |
+| `salute` | Gets a URL of a salute image/gif |
+| `sing` | Gets a URL of a singing image/gif |
+| `shrug` | Gets a URL of a shrug image/gif |
+| `choke` | Gets a URL of a choke image/gif |
+| `grin` | Gets a URL of a grin image/gif |
+| `music` | Gets a URL of a listen to music image/gif |
+| `love` | Gets a URL of a shows love image/gif |
+| `drawing` | Gets a URL of a drawing image/gif |
 | `pout` | Gets a URL of a pout image/gif |
 | `run` | Gets a URL of a run image/gif |
 | `sad` | Gets a URL of a sad image/gif |
@@ -64,6 +74,7 @@ Huge anime action gifs with no external dependencies.
 | `sip` | Gets a URL of a all sip image/gif |
 | `sipTea` | Gets a URL of a sip tea image/gif |
 | `sipCoffee` | Gets a URL of a sip coffee image/gif |
+| `sipCacao` | Gets a URL of a sip cacao image/gif |
 | `sipJuice` | Gets a URL of a sip juice image/gif |
 | `slap` | Gets a URL of a all slap/punch/hit image/gif |
 | `slapAss` | Gets a URL of a slap ass image/gif |

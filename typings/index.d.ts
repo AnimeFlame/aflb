@@ -38,6 +38,7 @@ declare class AFLB {
       sipTea():Promise<AFLB.AFLBRequestResults>;
       sipCoffee():Promise<AFLB.AFLBRequestResults>;
       sipJuice():Promise<AFLB.AFLBRequestResults>;
+      sipCacao():Promise<AFLB.AFLBRequestResults>;
       kissCheek():Promise<AFLB.AFLBRequestResults>;
       slap():Promise<AFLB.AFLBRequestResults>;
       slapAss():Promise<AFLB.AFLBRequestResults>;
@@ -50,7 +51,17 @@ declare class AFLB {
       steal():Promise<AFLB.AFLBRequestResults>;
       stokings():Promise<AFLB.AFLBRequestResults>;
       sweeties():Promise<AFLB.AFLBRequestResults>;
+      sing():Promise<AFLB.AFLBRequestResults>;
+      grin():Promise<AFLB.AFLBRequestResults>;
+      choke():Promise<AFLB.AFLBRequestResults>;
+      shrug():Promise<AFLB.AFLBRequestResults>;
+      scare():Promise<AFLB.AFLBRequestResults>;
+      scared():Promise<AFLB.AFLBRequestResults>;
+      drawing():Promise<AFLB.AFLBRequestResults>;
+      music():Promise<AFLB.AFLBRequestResults>;
+      salute():Promise<AFLB.AFLBRequestResults>;
       tease():Promise<AFLB.AFLBRequestResults>;
+      love():Promise<AFLB.AFLBRequestResults>;
       think():Promise<AFLB.AFLBRequestResults>;
       wasted():Promise<AFLB.AFLBRequestResults>;
       wave():Promise<AFLB.AFLBRequestResults>;
