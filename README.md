@@ -71,6 +71,7 @@ Huge anime action gifs with no external dependencies.
 | `sad` | Gets a URL of a sad image/gif |
 | `sake` | Gets a URL of a drink sake image/gif |
 | `shoot` | Gets a URL of a shoot image/gif |
+| `revert` | Gets a URL of a turn back image/gif |
 | `sip` | Gets a URL of a all sip image/gif |
 | `sipTea` | Gets a URL of a sip tea image/gif |
 | `sipCoffee` | Gets a URL of a sip coffee image/gif |

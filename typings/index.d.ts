@@ -10,6 +10,7 @@ declare class AFLB {
       cheek():Promise<AFLB.AFLBRequestResults>;
       clap():Promise<AFLB.AFLBRequestResults>;
       cringe():Promise<AFLB.AFLBRequestResults>;
+      revert():Promise<AFLB.AFLBRequestResults>;
       cry():Promise<AFLB.AFLBRequestResults>;
       dance():Promise<AFLB.AFLBRequestResults>;
       drink():Promise<AFLB.AFLBRequestResults>;
