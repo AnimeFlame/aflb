@@ -35,6 +35,7 @@ declare class AFLB {
       sad():Promise<AFLB.AFLBRequestResults>;
       sake():Promise<AFLB.AFLBRequestResults>;
       shoot():Promise<AFLB.AFLBRequestResults>;
+      raise():Promise<AFLB.AFLBRequestResults>;
       sip():Promise<AFLB.AFLBRequestResults>;
       sipTea():Promise<AFLB.AFLBRequestResults>;
       sipCoffee():Promise<AFLB.AFLBRequestResults>;

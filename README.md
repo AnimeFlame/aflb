@@ -69,6 +69,7 @@ Huge anime action gifs with no external dependencies.
 | `pout` | Gets a URL of a pout image/gif |
 | `run` | Gets a URL of a run image/gif |
 | `sad` | Gets a URL of a sad image/gif |
+| `raise` | Gets a URL of a raise to hands image/gif |
 | `sake` | Gets a URL of a drink sake image/gif |
 | `shoot` | Gets a URL of a shoot image/gif |
 | `revert` | Gets a URL of a turn back image/gif |
