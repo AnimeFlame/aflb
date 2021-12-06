@@ -81,7 +81,15 @@
       "neko": "neko",
       "nekoImg": "nekoImg",
       "nekoGif": "nekoGif",
-      "kitsune": "kitsune"
+      "kitsune": "kitsune",
+      "forehead":"forehead",
+      "watching":"watch",
+      "walking":"walkings",
+      "plaid":"plaid",
+      "cooking":"cooking",
+      "shower":"shower",
+      "game":"game",
+      "murr":"murr"
     },
     "nsfw": {
       "ass": "ass"

@@ -69,6 +69,14 @@ Huge anime action gifs with no external dependencies.
 | `pout` | Gets a URL of a pout image/gif |
 | `run` | Gets a URL of a run image/gif |
 | `sad` | Gets a URL of a sad image/gif |
+| `forehead` | Gets a URL of a kiss forehead image/gif |
+| `watching` | Gets a URL of a watch tv image/gif |
+| `walking` | Gets a URL of a walking image/gif |
+| `plaid` | Gets a URL of a plaid image/gif |
+| `cooking` | Gets a URL of a cooking image/gif |
+| `shower` | Gets a URL of a take shower image/gif |
+| `game` | Gets a URL of a game image/gif |
+| `murr` | Gets a URL of a murr image/gif |
 | `raise` | Gets a URL of a raise to hands image/gif |
 | `sake` | Gets a URL of a drink sake image/gif |
 | `shoot` | Gets a URL of a shoot image/gif |

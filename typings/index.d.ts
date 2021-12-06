@@ -83,6 +83,14 @@ declare class AFLB {
       nekoImg():Promise<AFLB.AFLBRequestResults>;
       nekoGif():Promise<AFLB.AFLBRequestResults>;
       kitsune():Promise<AFLB.AFLBRequestResults>;
+      forehead():Promise<AFLB.AFLBRequestResults>;
+      watching():Promise<AFLB.AFLBRequestResults>;
+      walking():Promise<AFLB.AFLBRequestResults>;
+      plaid():Promise<AFLB.AFLBRequestResults>;
+      cooking():Promise<AFLB.AFLBRequestResults>;
+      shower():Promise<AFLB.AFLBRequestResults>;
+      game():Promise<AFLB.AFLBRequestResults>;
+      murr():Promise<AFLB.AFLBRequestResults>;
     }
     nsfw: {
       ass():Promise<AFLB.AFLBRequestResults>;
