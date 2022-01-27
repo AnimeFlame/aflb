@@ -94,6 +94,20 @@ declare class AFLB {
     }
     nsfw: {
       ass():Promise<AFLB.AFLBRequestResults>;
+      ahegao():Promise<AFLB.AFLBRequestResults>;
+      bdsm():Promise<AFLB.AFLBRequestResults>;
+      blowjob():Promise<AFLB.AFLBRequestResults>;
+      boobjob():Promise<AFLB.AFLBRequestResults>;
+      cum():Promise<AFLB.AFLBRequestResults>;
+      elves():Promise<AFLB.AFLBRequestResults>;
+      hentai():Promise<AFLB.AFLBRequestResults>;
+      hentai_gif():Promise<AFLB.AFLBRequestResults>;
+      incest():Promise<AFLB.AFLBRequestResults>;
+      masturbation():Promise<AFLB.AFLBRequestResults>;
+      neko_nsfw():Promise<AFLB.AFLBRequestResults>;
+      panties():Promise<AFLB.AFLBRequestResults>;
+      tentacle():Promise<AFLB.AFLBRequestResults>;
+      thighs():Promise<AFLB.AFLBRequestResults>;
     }
   }
 

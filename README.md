@@ -119,7 +119,20 @@ Huge anime action gifs with no external dependencies.
 
 | Function | Description |
 | -------- | ----------- |
-| `ass` | Gets a URL of a ass image/gif |
+| `ass` | Gets a URL of a ass image |
+| `ahegao` | Gets a URL of a ahegao image |
+| `bdsm` | Gets a URL of a bdsm image |
+| `blowjob` | Gets a URL of a blowjob image |
+| `boobjob` | Gets a URL of a boobjob image |
+| `cum` | Gets a URL of a cum image |
+| `elves` | Gets a URL of a elves image |
+| `hentai` | Gets a URL of a hentai image |
+| `hentai_gif` | Gets a URL of a hentai gif |
+| `masturbation` | Gets a URL of a masturbation image |
+| `neko_nsfw` | Gets a URL of a neko nsfw image |
+| `panties` | Gets a URL of a panties image |
+| `tentacle` | Gets a URL of a tentacle image |
+| `thighs` | Gets a URL of a thighs image |
 
 ## Typings
 
